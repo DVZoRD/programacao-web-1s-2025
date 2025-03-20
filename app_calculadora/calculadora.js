@@ -1,5 +1,5 @@
 function somar(a,b){
-    return a + b
+    return Number(a)  + Number(b)
 }
 function subtrair(a,b){
     return a - b
